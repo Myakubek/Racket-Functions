@@ -1,5 +1,7 @@
 # Racket-Functions
 ## divisible-by-x
+Takes an integer as an argument and returns a function that indicates whether its integer argument is evenly divisibly by the first.  
+
 ![alt text](https://github.com/Myakubek/Racket-Functions/blob/main/Images/Function1.PNG?raw=true) 
 
 ## function-9
