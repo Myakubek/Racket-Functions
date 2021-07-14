@@ -1,5 +1,6 @@
 # Racket-Functions
 This is a list of recursive racket functions of varying complexities. The functions avoid using built-in helper functions such as member, element, filter, etc.  
+Below are examples of uses of the functions and short descriptions on their implementation. 
 
 ## my-map
 A racket function that duplicates the functionality of *map* from the standard library. 
